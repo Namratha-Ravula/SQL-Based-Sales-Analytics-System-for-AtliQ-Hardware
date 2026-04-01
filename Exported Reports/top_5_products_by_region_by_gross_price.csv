@@ -1,0 +1,17 @@
+market,gross_price_mln,region,dense
+India,455.05,APAC,1
+South Korea,131.86,APAC,2
+Philiphines,80.64,APAC,3
+Australia,59.15,APAC,4
+China,55.29,APAC,5
+United Kingdom,78.11,EU,1
+France,67.62,EU,2
+Norway,44.95,EU,3
+Germany,41.25,EU,4
+Spain,38.96,EU,5
+Mexico,2.3,LATAM,1
+Brazil,2.14,LATAM,2
+Chile,1.46,LATAM,3
+Columbia,0.37,LATAM,4
+USA,264.46,NA,1
+Canada,89.78,NA,2
