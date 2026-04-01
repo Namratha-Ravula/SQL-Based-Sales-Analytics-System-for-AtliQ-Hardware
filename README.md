@@ -4,6 +4,15 @@ A complete SQL-based analytics project that transforms raw sales data into actio
 
 ---
 
+
+
+## 🔗 Project Links
+
+- 🎥 [Presentation Video](https://youtu.be/3-eaHLKf9BU?si=FAq0KiGydpH1mtu8)
+- 💼 [LinkedIn Post](https://www.linkedin.com/posts/namratha-ravula_sql-dataanalytics-mysql-ugcPost-7445094409559289857-YaOp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-2POMBXhq2oXj94XjyWKK8nb5c4ZnTz6w)
+
+---
+
 ## ⚠️ Note  
 This repository includes SQL scripts, exported reports, and presentation materials. The project demonstrates end-to-end data transformation and business analysis using SQL.
 
@@ -114,12 +123,6 @@ This project solves that by:
 - Leverage **seasonal demand (Oct–Dec)** for growth  
 - Focus on **top-performing products** and optimize low performers  
 
----
-
-## 🔗 Project Links
-
-- 🎥 Presentation Video: *(Add your YouTube link)*  
-- 💼 LinkedIn Post: *(Add your LinkedIn link)*  
 
 ---
 
